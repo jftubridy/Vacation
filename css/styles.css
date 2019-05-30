@@ -1,0 +1,10 @@
+.jumbotron {
+  background-image: url("https://gardentravelhub.com/wp-content/uploads/2015/02/BG1501-Hawaii-BANNER.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+p {
+  font-style: italic;
+}

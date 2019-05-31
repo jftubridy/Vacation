@@ -5,6 +5,10 @@
   color: white;
 }
 
+.toolong {
+  width: 50%;
+}
+
 p {
   font-style: italic;
 }

@@ -10,7 +10,7 @@ The only purpose of this website is to test using code to change layouts, all of
 
 Simply open the index.html to use.  There are no functional links.
 
-There are no known bugs
+There are no known bugs.  Herbert is a dog if you are confused.
 
 HTML CSS and Bootstraps were used to make this.
 
